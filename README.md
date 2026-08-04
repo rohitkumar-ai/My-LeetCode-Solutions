@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0877-stone-game](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [3731-find-missing-elements](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
