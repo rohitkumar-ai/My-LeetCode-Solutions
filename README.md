@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0877-stone-game](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rohitkumar-ai/My-LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
